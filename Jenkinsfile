@@ -6,7 +6,11 @@ pipeline {
     }
 
     stages {
-        
+        stage ('Git Checkout') {
+            steps {
+                git branch: 'main' , url: 
+                    }
+        }
         stage('Compile') {
             steps {
              sh 'mvn compile'
