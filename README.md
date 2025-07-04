@@ -1,4 +1,4 @@
-# BoardgameListingWebApp by Amit Tripathy - DevOps Enginner
+# BoardgameListingWebApp by Amit Tripathy 
 
 ## Description
 
