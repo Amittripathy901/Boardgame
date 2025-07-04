@@ -1,4 +1,4 @@
-# BoardgameListingWebApp
+# BoardgameListingWebApp by Amit Tripathy
 
 ## Description
 
