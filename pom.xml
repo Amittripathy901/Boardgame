@@ -123,7 +123,8 @@
             <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>http://localhost:8081/repository/maven-snapshots/</url>
+             <id>maven-snapshots</id>
+         <url>http://localhost:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
